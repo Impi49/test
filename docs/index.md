@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### About
 
-[About You]({% link about.md %})
+[About You](/test{% link about.md %})
